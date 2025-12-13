@@ -69,10 +69,11 @@ Titanium: 3%
 Other: 3%
 ```
 
-**Processing Potential**:
-- Oxygen: 420 kg per 1,000 kg regolith (42% by mass)
-- Metals: 260 kg per 1,000 kg regolith (aluminum, iron, titanium)
-- Construction material: 1,000 kg per 1,000 kg regolith (sintered bricks)
+**Processing Potential** (with realistic extraction efficiencies):
+- Oxygen: 250-300 kg per 1,000 kg regolith (60-70% extraction efficiency from 42% content)
+- Metals: 150-200 kg per 1,000 kg regolith (60-75% extraction efficiency)
+- Construction material: 1,000 kg per 1,000 kg regolith (sintered bricks, 100% utilization)
+- Note: Extraction efficiencies based on current ISRU technology demonstrations
 
 ### Water Ice Exploration
 

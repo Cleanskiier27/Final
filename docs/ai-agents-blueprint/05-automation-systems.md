@@ -280,10 +280,11 @@ Quarterly (Human-Led):
 - Safety-critical: Requires human judgment
 
 **Repair Success Rates**:
-- Autonomous repairs: 94% success rate
-- Semi-autonomous: 98% success rate (with human guidance)
+- Autonomous repairs: 85-94% success rate (based on Earth analog testing)
+- Semi-autonomous: 95-98% success rate (with human guidance)
 - Average repair time: 45 minutes (vs. 3 hours human-only)
 - Repairs per month: 25-30 (mostly routine)
+- Note: Success rates improve with operational experience and machine learning
 
 ### Spare Parts Manufacturing
 

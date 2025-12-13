@@ -159,8 +159,9 @@ Temperature: 22°C ±1°C
 - Carrots: 25 kg/month
 
 **Total Production**: 500 kg/month (from 600 m²)
-**Crew Consumption**: 1,080 kg/month (12 crew × 90 kg/month)
-**Local Production**: 46% (target 50%)
+**Crew Food Consumption**: 1,080 kg/month (12 crew × 90 kg/month food only)
+**Local Food Production**: 46% (500/1,080 = 46.3%, target 50%)
+**Note**: Consumption figure represents food only; total consumables include water, oxygen, etc.
 
 **AI Optimization**:
 - Crop rotation: Maximize yield and nutrient cycling

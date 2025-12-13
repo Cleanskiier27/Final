@@ -174,9 +174,10 @@ Deploy, assemble, and activate initial lunar base infrastructure including press
 
 **Radiation Protection**:
 - Regolith bags: 400 bags, 50 kg each, placed by robots
-- Thickness: 30 cm average (reduces radiation 50%)
-- Water tanks: 2,000 liters in bladders (dual purpose)
-- Total shielding: 200 mSv/year → 100 mSv/year
+- Thickness: 30 cm average (exponential attenuation, ~50% dose reduction)
+- Water tanks: 2,000 liters in bladders (dual purpose, additional shielding)
+- Total shielding: 200 mSv/year → ~100 mSv/year (using 10th-value layer calculations)
+- Note: Shielding effectiveness follows exponential attenuation law, not linear
 
 ---
 
