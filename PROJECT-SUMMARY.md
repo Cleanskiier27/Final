@@ -109,12 +109,16 @@ c:/Users/daypi/.gemini/antigravity/playground/iridescent-planetary/
   10. Quality Control
 
 - **For Each Material Type**:
-  - Input specifications
-  - Processing methodology
-  - Energy requirements
-  - Recovery efficiency
-  - Output products
-  - Lunar-specific adaptations
+  - Input specifications (size, purity, moisture content)
+  - Processing methodology (detailed steps, temperatures, pressures)
+  - Energy requirements (kWh per kg processed)
+  - Recovery efficiency (% yield by output grade)
+  - Output products (primary and secondary streams)
+  - Lunar-specific adaptations (vacuum, radiation, low-gravity handling)
+  - Contamination protocols (detection and remediation)
+  - Quality grading (Grade A: pure reuse, Grade B: secondary use, Grade C: energy/composites)
+  - Storage requirements (temperature, humidity, containment)
+  - Safety precautions (toxicity, reactivity, handling hazards)
 
 #### lunar-conditions.md
 - **11 Environmental Factors**:
@@ -242,11 +246,28 @@ c:/Users/daypi/.gemini/antigravity/playground/iridescent-planetary/
 - **Communication**: Earth-Moon delay handling
 
 ### ✅ Recycling Focus
-- **6 Material Categories**: Plastics, metals, glass, organics, electronics, composites
-- **Multiple Processes**: Thermal, mechanical, chemical, biological
-- **High Efficiency**: 70-98% recovery depending on material
-- **Closed-Loop System**: Integration with habitat life support
-- **Future ISRU**: Plans for regolith integration
+- **10 Material Categories**: 
+  1. **Plastics** (PET, HDPE, LDPE, Polypropylene, ABS, Polycarbonate, Polyurethane)
+  2. **Ferrous Metals** (Steel, Iron, Stainless Steel alloys)
+  3. **Aluminum & Alloys** (Pure aluminum, Al-Cu, Al-Zn, aerospace-grade)
+  4. **Copper & Precious Metals** (Copper, Gold, Silver, Platinum, rare earth elements)
+  5. **Glass & Ceramics** (Borosilicate, soda-lime, specialized coatings)
+  6. **Organic Waste** (Food scraps, biological matter, textiles, paper)
+  7. **Electronic Waste** (PCBs, semiconductors, rare metals extraction)
+  8. **Composite Materials** (Carbon fiber, fiberglass, advanced polymers)
+  9. **Ceramic & Refractory Materials** (Heat-resistant coatings, insulators)
+  10. **Mineral Aggregates** (Lunar regolith integration, sand, gravel)
+
+- **Multiple Processing Methods**: 
+  - Thermal (Pyrolysis 400-600°C, Incineration, Distillation)
+  - Mechanical (Grinding, shredding, sizing, separation)
+  - Chemical (Dissolution, precipitation, extraction, refinement)
+  - Biological (Anaerobic digestion, composting, fermentation)
+  - Advanced (Plasma gasification, supercritical processing)
+
+- **High Efficiency**: 70-98% recovery depending on material type and purity
+- **Closed-Loop System**: Integration with habitat life support, agriculture, energy generation
+- **Future ISRU**: Plans for regolith integration and in-situ resource utilization
 
 ### ✅ Documentation Quality
 - **Comprehensive**: Every aspect covered in depth
