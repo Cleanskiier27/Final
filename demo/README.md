@@ -14,3 +14,19 @@ To run locally:
 
 To replace placeholder data:
 - Copy your xref HTML into a file (e.g., `data/xref.html`) and update `src/components/Viewer.jsx` to fetch and render the HTML.
+
+Parsing xref HTML (example)
+
+- The demo includes a parser utility at `src/utils/xrefParser.js` which exposes `parseXrefFromHtml(htmlString)`.
+- Example (browser console or component):
+
+```js
+fetch('/data/xref.html').then(r=>r.text()).then(html=>{
+  const parsed = parseXrefFromHtml(html)
+  console.log(parsed.tables, parsed.xrefs)
+})
+```
+
+Slides
+
+- A Reveal.js slide deck is available at `demo/slides/index.html` and served by Vite (open /slides/index.html in dev server).
