@@ -8,6 +8,8 @@
 
 The **NetworkBuster Lunar Recycling System (NLRS)** is a comprehensive repository documenting the design, specifications, and operational protocols for autonomous recycling machinery capable of functioning in lunar environmental conditions.
 
+**NEW: AI Agents Blueprint** - A complete blueprint for AI agent systems to coordinate all aspects of lunar sustainability, from Stage 1 rocket building through achieving permanent human habitation after automation of lunar resource utilization.
+
 ### Mission Statement
 
 To establish sustainable waste management and resource recovery systems for lunar habitats, enabling long-term human presence on the Moon through closed-loop material cycles.
@@ -25,6 +27,7 @@ To establish sustainable waste management and resource recovery systems for luna
 
 ```
 ├── docs/                           # Comprehensive documentation
+│   ├── ai-agents-blueprint/       # AI agent coordination system
 │   ├── technical-specs/           # Technical specifications
 │   ├── operational-protocols/     # Operating procedures
 │   ├── environmental-data/        # Lunar environment data
@@ -85,6 +88,16 @@ To establish sustainable waste management and resource recovery systems for luna
 
 Detailed documentation is available in the `/docs` directory:
 
+### AI Agents Blueprint (NEW!)
+- **[Master Coordination](./docs/ai-agents-blueprint/00-master-coordination.md)** - AI agent architecture overview
+- **[Stage 1: Rocket Building](./docs/ai-agents-blueprint/01-rocket-building.md)** - Launch vehicle AI systems
+- **[Stage 2: Lunar Transportation](./docs/ai-agents-blueprint/02-lunar-transportation.md)** - Navigation and landing AI
+- **[Stage 3: Base Construction](./docs/ai-agents-blueprint/03-base-construction.md)** - Construction and integration AI
+- **[Stage 4: Resource Extraction](./docs/ai-agents-blueprint/04-resource-extraction.md)** - ISRU and mining AI
+- **[Stage 5: Automation Systems](./docs/ai-agents-blueprint/05-automation-systems.md)** - Full automation AI
+- **[Stage 6: Human Sustainability](./docs/ai-agents-blueprint/06-human-sustainability.md)** - Long-term sustainability AI
+
+### NLRS Technical Documentation
 - **[System Architecture](./docs/technical-specs/system-architecture.md)** - Overall system design
 - **[Material Processing](./docs/technical-specs/material-processing.md)** - Recycling methodologies
 - **[Environmental Adaptation](./docs/environmental-data/lunar-conditions.md)** - Lunar environment data
