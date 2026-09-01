@@ -1,0 +1,26 @@
+services:
+  api:
+    build: .
+    container_name: networkbuster-api
+    restart: unless-stopped
+    env_file: .env
+    expose:
+      - "3001"
+
+  caddy:
+    image: caddy:2-alpine
+    container_name: networkbuster-caddy
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      - api
+
+volumes:
+  caddy_data:
+  caddy_config:

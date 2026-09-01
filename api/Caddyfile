@@ -1,0 +1,3 @@
+api.networkbuster.net {
+	reverse_proxy api:3001
+}
