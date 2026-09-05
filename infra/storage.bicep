@@ -172,3 +172,4 @@ output fileEndpoint string = storageAccount.properties.primaryEndpoints.file
 output tableEndpoint string = storageAccount.properties.primaryEndpoints.table
 output queueEndpoint string = storageAccount.properties.primaryEndpoints.queue
 output connectionString string = 'DefaultEndpointsProtocol=https;AccountName=${storageAccount.name};AccountKey=${storageAccount.listKeys().keys[0].value};EndpointSuffix=core.windows.net'
+
